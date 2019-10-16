@@ -95,4 +95,9 @@ export default {
 .links {
   padding-top: 15px;
 }
+iframe{
+  border:4px solid #555555;
+  padding: 1rem;
+  margin: 1rem;
+}
 </style>
