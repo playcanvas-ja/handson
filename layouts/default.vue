@@ -1,5 +1,25 @@
 <template>
   <div>
+    <header>
+      <a-breadcrumb>
+        <a-breadcrumb-item>
+          <a href="/" target="_blank">ホーム</a>
+        </a-breadcrumb-item>
+                <a-breadcrumb-item>
+          <a href="/tutorial">チュートリアル</a>
+        </a-breadcrumb-item>
+
+        <a-breadcrumb-item>
+          <a href="/xr">AR / VR / XR</a>
+        </a-breadcrumb-item>
+        <a-breadcrumb-item><a href="https://developer.playcanvas.com/ja/tutorials/" target="_blank">ドキュメント</a></a-breadcrumb-item>
+
+        <a-breadcrumb-item>
+          <a href="https://developer.playcanvas.com/ja/user-manual/">ユーザーマニュアル</a>
+        </a-breadcrumb-item>
+
+      </a-breadcrumb>
+    </header>
     <nuxt />
   </div>
 </template>

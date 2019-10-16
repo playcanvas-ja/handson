@@ -1,42 +1,22 @@
 <template>
   <div class="container">
     <div>
-      <h1 class="title">
-        PlayCanvas開発体験
-      </h1>
-      <h2 class="subtitle">
-          10月24日（木曜日）
+      <h2 class="subtitle">PlayCanvas体験会</h2>
 
-      </h2>
+      <h2 class="description">10月24日（木曜日）</h2>
       <div class="links">
-        <a
+        <a-button type="danger" href="/tutorial">チュートリアル</a-button>
+        <a-button type="danger" href="/xr">AR/VR/XR</a-button>
+        <a-button
+          type="default"
           href="https://developer.playcanvas.com/ja/tutorials/"
           target="_blank"
-          class="button--green"
-        >
-          ドキュメント
-        </a>
-        <a
+        >ドキュメント</a-button>
+        <a-button
+          type="default"
           href="https://developer.playcanvas.com/ja/user-manual/"
           target="_blank"
-          class="button--grey"
-        >
-          ユーザーマニュアル
-        </a>
-          <a
-          href="/tutorial"
-          class="button--grey"
-        >
-          チュートリアル
-        </a>
-        
-            </a>
-          <a
-          href="/xr"
-          class="button--grey"
-        >
-          AR/VR/XR
-        </a>
+        >ユーザーマニュアル</a-button>
       </div>
     </div>
   </div>
@@ -69,8 +49,17 @@
   word-spacing: 5px;
   padding-bottom: 15px;
 }
-
+.description {
+  font-weight: 300;
+  font-size: 18px;
+  color: #526488;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+}
 .links {
   padding-top: 15px;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  grid-gap: 3rem;
 }
 </style>
