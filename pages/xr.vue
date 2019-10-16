@@ -2,10 +2,12 @@
 <template>
   <div class="container">
     <h2 class="subtitle">AR / VRについて</h2>
+        <span style="font-size:0.9rem">貸し出し可能なOculus QuestとOculus Goが２台の合計４台ございます</span>
+
     <p>PlayCanvasでARとVRの開発をする際に便利なリンク集</p>
 
     <p>AR</p>
-    <span>スマートフォンがあれば開発をすることができます。</span>
+    
     <ul>
       <li>
         <a target="_blank" href="https://playcanvas.com/the8thwall">THE8THWALL</a>
@@ -16,7 +18,6 @@
       </li>
     </ul>
     <p>VR</p>
-    <span>貸し出し可能なOculus QuestとOculus Goが２台の合計４台ございます</span>
     <ul>
       <li>
         <a

@@ -7,7 +7,7 @@
         <div class="3d">
           <span class="name">3Dハンズオン</span>
           <a
-            href="https://support.playcanvas.jp/hc/ja/articles/360001824487-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-2D%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0-1-8"
+            href="https://support.playcanvas.jp/hc/ja/articles/224163827-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-PlayCanvas%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C-1-7"
           >チュートリアル - PlayCanvasの基本操作 -</a>
           <iframe src="https://playcanv.as/p/ONIG8RhE/?overlay=false"></iframe>
         </div>
@@ -96,7 +96,7 @@ export default {
   padding-top: 15px;
 }
 iframe{
-  border:4px solid #555555;
+  border: none;
   padding: 1rem;
   margin: 1rem;
 }

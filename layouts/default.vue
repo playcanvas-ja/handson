@@ -43,7 +43,12 @@ html {
   box-sizing: border-box;
   margin: 0;
 }
-
+header{
+  padding: 3rem;
+}
+span{
+  font-size: 1.3rem;
+}
 .button--green {
   display: inline-block;
   border-radius: 4px;
