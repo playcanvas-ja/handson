@@ -5,6 +5,7 @@
 
       <h2 class="description">10月24日（木曜日）</h2>
       <div class="links">
+        <a-button type="danger" href="/playcanvas">PlayCanvasに登録をする</a-button>
         <a-button type="danger" href="/tutorial">チュートリアル</a-button>
         <a-button type="danger" href="/xr">AR/VR/XR</a-button>
         <a-button
