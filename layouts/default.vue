@@ -10,7 +10,7 @@
         </a-breadcrumb-item>
 
         <a-breadcrumb-item>
-          <a href="/xr">AR / VR / XR</a>
+          <a href="/xr">AR / VR</a>
         </a-breadcrumb-item>
         <a-breadcrumb-item><a href="https://developer.playcanvas.com/ja/tutorials/" target="_blank">ドキュメント</a></a-breadcrumb-item>
 

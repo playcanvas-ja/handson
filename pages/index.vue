@@ -7,7 +7,7 @@
       <div class="links">
         <a-button type="danger" href="/playcanvas">PlayCanvasに登録をする</a-button>
         <a-button type="danger" href="/tutorial">チュートリアル</a-button>
-        <a-button type="danger" href="/xr">AR/VR/XR</a-button>
+        <a-button type="danger" href="/xr">AR/VR</a-button>
         <a-button
           type="default"
           href="https://developer.playcanvas.com/ja/tutorials/"
